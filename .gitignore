@@ -1,0 +1,22 @@
+__pypackages__/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+wheels/
+pip-log.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode
+# .idkwhatelse?
+
+# mypy shit INSTALL DEEZE huehuehu
+.mypy_cache/
+.dmypy.json
+dmypy.json
